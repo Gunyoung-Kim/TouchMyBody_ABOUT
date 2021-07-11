@@ -877,4 +877,7 @@
 
     1. countAllByNickNameOrName 결과에 캐싱 적용
 
+### 2021.7.11
+
+- 첫 배포
 
