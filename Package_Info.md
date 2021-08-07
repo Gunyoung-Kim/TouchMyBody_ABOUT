@@ -20,6 +20,8 @@
 
 - $Main.controller : 화면 반환하는 컨트롤러(@Controller) 모음 
 
+- $Main.controller.util : 컨트롤러에서 사용하는 클래스 모음 
+
 - $Main.controller.rest : Rest 컨트롤러(@RestController) 모음 
 
 ### $Main.domain
