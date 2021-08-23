@@ -97,3 +97,13 @@
          - 자주 변경되는 사항에 대한 캐시 항목 삭제
 
          - 캐시 삭제 최적화
+
+### ver 0.0.10
+
+    1. 리팩토링
+
+         - Controller, RestController들에 대한 리팩토링
+
+    2. 테스트 코드 추가
+
+         - Controller, RestController들에 대한 단위 테스트 코드 추가
