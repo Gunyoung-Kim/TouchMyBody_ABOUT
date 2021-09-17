@@ -109,3 +109,13 @@
     2. 테스트 코드 추가
 
          - Controller, RestController들에 대한 단위 테스트 코드 추가
+
+### ver 0.0.11
+
+- 2021.09.16
+
+    1. 엔티티의 삭제 성능 개선 (쿼리 발생 숫자 줄임)
+
+         -  관련 이슈 : https://github.com/Gunyoung-Kim/Touch-My-Body/issues/28 , https://github.com/Gunyoung-Kim/Touch-My-Body/issues/27
+
+    2. 코드 리팩토링 및 테스트 케이스 추가 
