@@ -119,3 +119,12 @@
          -  관련 이슈 : https://github.com/Gunyoung-Kim/Touch-My-Body/issues/28 , https://github.com/Gunyoung-Kim/Touch-My-Body/issues/27
 
     2. 코드 리팩토링 및 테스트 케이스 추가 
+
+### ver 0.0.12
+
+    1. 성능개선
+     	- DB Indexing을 활용한 성능 개선 : https://github.com/Gunyoung-Kim/Touch-My-Body/issues/32
+
+     	- in절 활용을 통한 성능 개선 : https://github.com/Gunyoung-Kim/Touch-My-Body/issues/33
+
+    2. 전체 패키지 리팩토링
